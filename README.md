@@ -31,6 +31,22 @@ The script can be configured by setting the following environment variables:
 
 ## Setting up clients
 
+### MAC OS
+
+Install WireGuard for Mac
+
+    https://www.wireguard.com/install/
+    
+    
+###  iOS / Android
+
+        iOS
+    AppStore: TunSafe
+    
+        Android
+    Android Store: TunSafe
+    
+
 ### Ubuntu PC
 
 Install WireGuard and reboot your computer:
