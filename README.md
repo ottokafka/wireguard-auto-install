@@ -1,4 +1,4 @@
-# This script was edited from the orginal auther to work with Google Cloud. 
+# This script was edited from the original auther to work with Google Cloud. 
 
 # wireguard-install
 
