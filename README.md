@@ -11,8 +11,7 @@ This script will let you setup your own VPN server in no more than a minute, eve
 Run the script and follow the assistant:
 
 ```
-git clone github.com/ottokafka/wireguard-auto-install.git
-wget https://raw.githubusercontent.com/l-n-s/wireguard-install/master/wireguard-install.sh -O wireguard-install.sh
+git clone https://github.com/ottokafka/wireguard-auto-install.git
 bash wireguard-install.sh
 ```
 
