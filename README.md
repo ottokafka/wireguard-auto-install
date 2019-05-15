@@ -1,3 +1,5 @@
+# This script was edited from the orginal auther to work with Google Cloud. 
+
 # wireguard-install
 
 [WireGuard](https://www.wireguard.com) [road warrior](http://en.wikipedia.org/wiki/Road_warrior_%28computing%29) installer for Ubuntu 18.04 LTS, Debian 9 and CentOS 7.
